@@ -30,3 +30,7 @@ R2 Score: 0.9870
 ## Author
 
 Adithyan R.
+
+## Project Screenshot
+
+![Employee Salary Prediction GUI](screenshots/salary_prediction_gui.png)
